@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head><title>Laksha Dursun - My Profile</title></head>
+<body>
+<header>
+
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td>About</td>
+<td>Skills</td>
+<td>Hobbies</td>
+<td>Education</td>
+<td>Experience</td>
+<td>Contact</td>
+</tr>
+</nav>
+</body>
